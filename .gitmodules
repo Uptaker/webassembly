@@ -1,0 +1,3 @@
+[submodule "wasm-cpp"]
+	path = wasm-cpp
+	url = https://github.com/Uptaker/wasm-cpp.git
