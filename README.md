@@ -18,7 +18,7 @@
 
 # TODO try with Svelte?
 
-# TODO WASM popularity/usage (ex: Figma (not fully WASM), Zaplib failure)
+# TODO WASM popularity/usage (ex: Figma (not fully WASM), Zaplib failure, game copes (eg DOOM 3))
 
 
 
