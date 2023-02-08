@@ -10,7 +10,7 @@
 
 # ❌ Mis on Emscripten?
 
-# ✅ [C/C++ näidis](https://github.com/Uptaker/wasm-cpp/)
+# ✅ [C++ näidis](https://github.com/Uptaker/wasm-cpp/)
 
 # 🚧 Rust näidis
 
