@@ -1,24 +1,22 @@
 # WebAssembly
 
-# TODO what is WebAssembly
+# ❌ Mis on WebAssembly?
 
-# TODO WebAssembly history
+# ❌ WebAssembly ajalugu (asm.js)
 
-# TODO short LLVM section
+# ❌ Mis on LLVM?
 
-# TODO short Emscripten section ?
+# ❌ WASM plussid/miinused
 
-# TODO WASM pros/cons
+# ❌ Mis on Emscripten?
 
-# C/C++ 90% done
+# ✅ [C/C++ näidis](https://github.com/Uptaker/wasm-cpp/)
 
-# TODO Rust
+# 🚧 Rust näidis
 
-# TODO Blazor
+# ✅ [Blazor WebAssembly näidis](https://github.com/Uptaker/wasm-blazor)
 
-# TODO try with Svelte?
+# ❌ WASM populaarsus ja kasutus (nt: Figma, Zaplib ebaõnnestus, mängu portid (nt DOOM 3))
 
-# TODO WASM popularity/usage (ex: Figma (not fully WASM), Zaplib failure, game copes (eg DOOM 3))
-
-
+# ? Proovida Sveltega? (kui aega jääb)
 
