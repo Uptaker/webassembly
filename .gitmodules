@@ -1,3 +1,6 @@
 [submodule "wasm-cpp"]
 	path = wasm-cpp
 	url = https://github.com/Uptaker/wasm-cpp.git
+[submodule "wasm-blazor"]
+	path = wasm-blazor
+	url = https://github.com/Uptaker/wasm-blazor
