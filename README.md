@@ -7,8 +7,13 @@
 # ❌ Mis on LLVM?
 
 # ❌ WASM plussid/miinused
+- Võrdlus näidisprogrammiga
+
+# ❌ Millal kasutada? Millal mitte?
+- Kus töötab? Mis brauserites töötab?
 
 # ❌ Mis on Emscripten?
+- Kus kasutatakse (nt Unity)
 
 # ✅ [C++ näidis](https://github.com/Uptaker/wasm-cpp/)
 
