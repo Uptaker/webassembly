@@ -19,7 +19,7 @@
 
 # ✅ [C++ näidis](https://github.com/Uptaker/wasm-cpp/)
 
-# 🚧 Rust näidis
+# 🚧 [Rust näidis](https://github.com/Uptaker/wasm-rust/)
 
 # ✅ [Blazor WebAssembly näidis](https://github.com/Uptaker/wasm-blazor)
 
