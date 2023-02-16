@@ -9,6 +9,7 @@
 # ❌ WASM plussid/miinused
 - Võrdlus näidisprogrammiga
 - V8, js optimisatsioonid
+- peidetud lähtekood - wasm on baitkood ja ei saa olla dekompileeritud tagasi originaalse failile.     
 
 # ❌ Millal kasutada? Millal mitte?
 - Kus töötab? Mis brauserites töötab?
