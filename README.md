@@ -8,8 +8,11 @@
 
 # ❌ WASM plussid/miinused
 - Võrdlus näidisprogrammiga
+- peidetud lähtekood - wasm on baitkood ja ei saa olla dekompileeritud tagasi originaalse failile.
+
+# ❌ Kiirus
+- nt JS json parse on tegelikult väga optimeeritud C++ kood https://chromium.googlesource.com/chromium/src/base/+/refs/heads/main/json/json_parser.cc
 - V8, js optimisatsioonid
-- peidetud lähtekood - wasm on baitkood ja ei saa olla dekompileeritud tagasi originaalse failile.     
 
 # ❌ Millal kasutada? Millal mitte?
 - Kus töötab? Mis brauserites töötab?
