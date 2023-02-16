@@ -8,6 +8,7 @@
 
 # ❌ WASM plussid/miinused
 - Võrdlus näidisprogrammiga
+- brauseri juurdepääsetavuse funktsioonid
 - peidetud lähtekood - wasm on baitkood ja ei saa olla dekompileeritud tagasi originaalse failile.
 
 # ❌ Kiirus
