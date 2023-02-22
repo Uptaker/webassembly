@@ -24,15 +24,14 @@
 
 # ✅ [C++ näidis](https://github.com/Uptaker/wasm-cpp/)
 
-# 🚧 [Rust näidis](https://github.com/Uptaker/wasm-rust/)
+# ✅ [Rust näidis](https://github.com/Uptaker/wasm-rust/)
 
 # ✅ [Blazor WebAssembly näidis](https://github.com/Uptaker/wasm-blazor)
 
 # ❌ WASM populaarsus ja kasutus (nt: Figma, Zaplib ebaõnnestus, mängu portid (nt DOOM 3), portimine)
 
-# ?Proovida Sveltega? (kui aega jääb)
-
 # Sihtgruppid:
 - Teised huvitatud õpilased
+- Veebiarendajad
 - Veebivälise programmeerimiskeele eksperdid
 - Rakenduste portijad
