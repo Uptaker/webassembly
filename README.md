@@ -35,3 +35,9 @@
 - Veebiarendajad
 - Veebivälise programmeerimiskeele eksperdid
 - Rakenduste portijad
+
+# Mida juurde:
+- Loe rohkem - mida sealt lugeda on
+- Paigaldusmaterjalides Windows/Mac versioonid nt lingiga
+- Edge jõudlustest, omarakendusena (ilma braserita)
+- Mobiilis (tulemused html-is)
